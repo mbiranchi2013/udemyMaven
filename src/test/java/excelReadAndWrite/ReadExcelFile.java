@@ -35,7 +35,7 @@ public class ReadExcelFile {
 			}
 			System.out.println();
 		}
-
+fi.close();
 	}
 
 }
